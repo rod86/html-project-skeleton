@@ -1,0 +1,8 @@
+dist
+!dist/.gitkeep
+
+fonts
+!fonts/.gitkeep
+
+npm-debug.log
+node_modules
